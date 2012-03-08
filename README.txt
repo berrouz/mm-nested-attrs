@@ -1,6 +1,6 @@
 ---
 
-# MongoMapper extension for ***accepts_nested_attributes*** method
+# MongoMapper extension for *accepts_nested_attributes* method
 
 ---
 
@@ -20,4 +20,4 @@
 
   In Gemfile
 
-     gem 'mm-nested-attr'
+     gem 'mm-nested-attrs'
