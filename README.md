@@ -1,6 +1,6 @@
 <hr>
 
-<h1>MongoMapper extension for <code>accepts_nested_attributes</code> method</h1>
+<h1>MongoMapper extension for <code>accepts_nested_attributes</code></h1>
 
 <hr>
 

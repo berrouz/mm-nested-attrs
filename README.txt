@@ -1,6 +1,6 @@
 ---
 
-# MongoMapper extension for `accepts_nested_attributes` method
+# MongoMapper extension for `accepts_nested_attributes`
 
 ---
 
