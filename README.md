@@ -1,6 +1,6 @@
 <hr>
 
-<h1>MongoMapper extension for <strong><em>accepts<em>nested</em>attributes</em></strong> method</h1>
+<h1>MongoMapper extension for <em>accepts<em>nested</em>attributes</em> method</h1>
 
 <hr>
 
@@ -22,5 +22,5 @@ end
 
 <p>In Gemfile</p>
 
-<pre><code> gem &#39;mm-nested-attr&#39;
+<pre><code> gem &#39;mm-nested-attrs&#39;
 </code></pre>
